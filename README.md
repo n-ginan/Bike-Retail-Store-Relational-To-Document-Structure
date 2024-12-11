@@ -1,3 +1,3 @@
 Here is the link of the dataset
 
-<https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database>[Bike Retail Store DataSet]
+[Bike Retail Store DataSet](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
